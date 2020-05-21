@@ -1,3 +1,5 @@
 # Codeforces-144A-Arrival-of-the-General
-Problem  
+### Problem  
 ![](capture.png)
+### Visual Representation
+![](visuals.jpg)
