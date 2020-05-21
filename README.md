@@ -2,4 +2,3 @@
 ### Problem  
 ![](capture.png)
 ### Visual Representation
-![](visuals.jpg)
